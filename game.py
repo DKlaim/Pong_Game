@@ -1,5 +1,4 @@
 import arcade
-from pyglet.input.evdev_constants import key_raw_names
 
 # Константы (определяются заглавными)
 SCREEN_WIDTH = 800
